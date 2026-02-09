@@ -1,4 +1,4 @@
-"""Sample documents for testing."""
+
 
 # Sample document 1
 doc1 = """
@@ -80,3 +80,4 @@ sample_documents = [
     {"text": doc2, "id": "ml_fundamentals", "title": "Machine Learning Fundamentals"},
     {"text": doc3, "id": "deep_learning", "title": "Deep Learning with Neural Networks"}
 ]
+
